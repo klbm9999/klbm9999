@@ -33,7 +33,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=COmcp_IA
 
 ## Toolbox
 
-**ML and CV:** Python, PyTorch, OpenCV, segmentation, detection<br>
+**ML and CV:** Python, PyTorch, OpenCV, U-Net, DINO, YOLO, SAM, segmentation, detection<br>
 **Engineering:** FastAPI, Flask, REST APIs<br>
 **Cloud and infra:** AWS, GCS, Docker, Kubernetes
 
