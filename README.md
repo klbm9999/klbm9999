@@ -1,6 +1,6 @@
 # Hi, I'm Bhanu 👋
 
-**ML engineer - computer vision, from research to production.**
+**ML engineer - computer vision, from research to production.**<br>
 8+ years in applied ML across research and industry, most recently as AI technical lead at a US property-intelligence startup.
 
 Based in Hyderabad, India.
