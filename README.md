@@ -15,7 +15,6 @@ Looking for **ML engineer (computer vision)** and **founding / full-stack ML eng
 - **Production computer vision** - 4+ years at a US property-intelligence startup, as ML engineer and then AI technical lead: storm and hail damage detection, roof outline detection, facet segmentation and roof-face adjacency on aerial and satellite imagery, from data strategy and annotation through training, benchmarking and deployment.
 - **End-to-end ML products** - led the architecture and delivery of a commercial property-intelligence product that reached 2,000+ registered users within 1.5 years: imagery ingestion, processing, report generation and APIs on cloud infrastructure.
 - **ML platform and infrastructure** - built the image acquisition, storage and curation service and the experiment-tracking service of a geospatial ML platform holding multiple datasets of over 1M records.
-- **LLMs, VLMs and agents** - fine-tuned and deployed LLMs and VLMs in production, and led the design of an in-house AI agent (tool use, planning, cost and security tradeoffs).
 - **Research** - computational videography research at CVIT, IIIT Hyderabad (2018-2021), including gaze-guided cinematic editing of wide-angle video; TCS Research Fellowship (2020).
 
 ## Featured projects
@@ -24,7 +23,6 @@ Looking for **ML engineer (computer vision)** and **founding / full-stack ML eng
 | --- | --- | --- |
 | [fixmyroad](https://github.com/klbm9999/fixmyroad) | Crowdsourced road-quality reporting platform for Hyderabad, built on OpenStreetMap road data | TypeScript, NestJS, Next.js, PostGIS, MapLibre |
 | [robo-litrev](https://github.com/klbm9999/robo-litrev) | Groundwork for a robotics literature-review assistant: a tested fetcher that builds a corpus of the 500 most-cited open-access robotics papers from the Semantic Scholar API | Python |
-| [exoplanet-detection](https://github.com/klbm9999/exoplanet-detection) | Early exploration of exoplanet detection using NASA Exoplanet Archive radial-velocity and spectra data | Python, Astropy |
 
 ## Publications
 
@@ -35,9 +33,9 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=COmcp_IA
 
 ## Toolbox
 
-**ML and CV:** Python, PyTorch, OpenCV, segmentation, detection, LLM and VLM fine-tuning<br>
-**Engineering:** FastAPI, Flask, REST APIs, data pipelines, MLOps<br>
-**Cloud and infra:** AWS, GCS, Docker, Kubernetes, Bash
+**ML and CV:** Python, PyTorch, OpenCV, segmentation, detection<br>
+**Engineering:** FastAPI, Flask, REST APIs<br>
+**Cloud and infra:** AWS, GCS, Docker, Kubernetes
 
 ---
 
