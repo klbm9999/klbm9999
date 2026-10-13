@@ -23,6 +23,7 @@ Looking for **ML engineer (computer vision)** and **founding / full-stack ML eng
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [fixmyroad](https://github.com/klbm9999/fixmyroad) | Crowdsourced road-quality reporting platform for Hyderabad, built on OpenStreetMap road data | TypeScript, NestJS, Next.js, PostGIS, MapLibre |
+| [robo-litrev](https://github.com/klbm9999/robo-litrev) | Groundwork for a robotics literature-review assistant: a tested fetcher that builds a corpus of the 500 most-cited open-access robotics papers from the Semantic Scholar API | Python |
 | [exoplanet-detection](https://github.com/klbm9999/exoplanet-detection) | Early exploration of exoplanet detection using NASA Exoplanet Archive radial-velocity and spectra data | Python, Astropy |
 
 ## Publications
