@@ -1,7 +1,7 @@
 # Hi, I'm Bhanu 👋
 
 **ML engineer - computer vision, from research to production.**<br>
-8+ years in applied ML across research and industry, most recently as AI technical lead at a US property-intelligence startup.
+8+ years in applied ML across research and industry, most recently as AI technical lead at Granular AI.
 
 Based in Hyderabad, India.
 Looking for **ML engineer (computer vision)** and **founding / full-stack ML engineer** roles, remote or with relocation.
@@ -12,9 +12,9 @@ Looking for **ML engineer (computer vision)** and **founding / full-stack ML eng
 
 ## What I do
 
-- **Production computer vision** - 4+ years at a US property-intelligence startup, as ML engineer and then AI technical lead: storm and hail damage detection, roof outline detection, facet segmentation and roof-face adjacency on aerial and satellite imagery, from data strategy and annotation through training, benchmarking and deployment.
-- **End-to-end ML products** - led the architecture and delivery of a commercial property-intelligence product that reached 2,000+ registered users within 1.5 years: imagery ingestion, processing, report generation and APIs on cloud infrastructure.
-- **ML platform and infrastructure** - built the image acquisition, storage and curation service and the experiment-tracking service of a geospatial ML platform holding multiple datasets of over 1M records.
+- **Production computer vision** - 4+ years at Granular AI, as ML engineer and then AI technical lead: storm and hail damage detection, roof outline detection, facet segmentation and roof-face adjacency on aerial and satellite imagery, from data strategy and annotation through training, benchmarking and deployment.
+- **End-to-end ML products** - led the architecture and delivery of Inspect.Properties, a commercial property-intelligence product that reached 2,000+ registered users within 1.5 years: imagery ingestion, processing, report generation and APIs on cloud infrastructure.
+- **ML platform and infrastructure** - built the image acquisition, storage and curation service and the experiment-tracking service of GeoEngine, a geospatial ML platform holding multiple datasets of over 1M records.
 - **Research** - computational videography research at CVIT, IIIT Hyderabad (2018-2021), including gaze-guided cinematic editing of wide-angle video; TCS Research Fellowship (2020).
 
 ## Featured projects
