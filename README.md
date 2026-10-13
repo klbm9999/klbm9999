@@ -1,10 +1,10 @@
 # Hi, I'm Bhanu 👋
 
-**ML engineer - computer vision, from research to production.**<br>
+**Computer vision engineer - from research to production.**<br>
 8+ years in applied ML across research and industry, most recently as AI technical lead at Granular AI.
 
 Based in Hyderabad, India.
-Looking for **ML engineer (computer vision)** and **founding / full-stack ML engineer** roles, remote or with relocation.
+Looking for **Computer Vision Engineer**, **Senior ML Engineer (Computer Vision)** and **Applied Scientist (Computer Vision)** roles, especially on aerial, satellite and geospatial imagery and video, remote or with relocation.
 
 [![Email](https://img.shields.io/badge/Email-klbm9999%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:klbm9999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhanu%20Moorthy-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-l-bhanu-moorthy-bb6023b7/)
