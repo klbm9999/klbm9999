@@ -21,8 +21,8 @@ Looking for **Computer Vision Engineer**, **Senior ML Engineer (Computer Vision)
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [fixmyroad](https://github.com/klbm9999/fixmyroad) | Crowdsourced road-quality reporting platform for Hyderabad, built on OpenStreetMap road data. *Early prototype, paused since March 2026.* | TypeScript, NestJS, Next.js, PostGIS, MapLibre |
-| [robo-litrev](https://github.com/klbm9999/robo-litrev) | Groundwork for a robotics literature-review assistant: a tested fetcher that builds a corpus of the 500 most-cited open-access robotics papers from the Semantic Scholar API. *In active development.* | Python |
+| [fixmyroad](https://github.com/klbm9999/fixmyroad) | Crowdsourced road-quality reporting platform for Hyderabad, built on OpenStreetMap road data. *In active development.* | TypeScript, NestJS, Next.js, PostGIS, MapLibre |
+| [robo-litrev](https://github.com/klbm9999/robo-litrev) | A project to evaluate and demonstrate retrieval-augmented generation (RAG) strategies, using robotics research literature as the corpus. *In active development.* | Python |
 
 ## Publications
 
