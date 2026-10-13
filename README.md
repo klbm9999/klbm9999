@@ -1,7 +1,7 @@
 # Hi, I'm Bhanu 👋
 
 **Computer vision engineer - from research to production.**<br>
-8+ years in applied ML across research and industry, most recently as AI technical lead at Granular AI.
+8+ years in applied ML across research and industry; currently AI Technical Lead at Granular AI.
 
 Based in Hyderabad, India.
 Looking for **Computer Vision Engineer**, **Senior ML Engineer (Computer Vision)** and **Applied Scientist (Computer Vision)** roles, especially on aerial, satellite and geospatial imagery and video, remote or with relocation.
